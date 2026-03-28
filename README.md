@@ -33,7 +33,7 @@ This repository contains comprehensive solutions and detailed explanations for t
 
 **Successfully completed the 100 Days of DevOps Challenge!**
 
-![certificate of completion](./screenshots/certificate-mh.jpg)
+
 
 ### Learning Modules
 
@@ -224,32 +224,6 @@ Deploy and manage applications in Kubernetes clusters with advanced patterns.
 
 Deploy CI/CD pipelines, provisioning infrastructures, and ansible automation.
 
-## 🤝 Contributing
-
-Contributions are welcome! If you think any solution steps would be better, Here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/improvement`)
-3. **Commit** your changes (`git commit -am 'Add new solution'`)
-4. **Push** to the branch (`git push origin feature/improvement`)
-5. **Create** a Pull Request
-
-## 📚 Additional Resources
-
-- [KodeKloud Official Course](https://linkly.link/2CeSH)
-- [Docker Documentation](https://docs.docker.com/)
-- [Kubernetes Documentation](https://kubernetes.io/docs/)
-- [Git Documentation](https://git-scm.com/doc)
-- [Linux Command Reference](https://man7.org/linux/man-pages/)
-
-## ⭐ Show Your Support
-
-If this repository helped you in your DevOps journey:
-
-- **Star** this repository ⭐
-- **Fork** it to create your own version
-- **Share** it with fellow developers
-- **Follow me** for more DevOps content
 
 ## 📄 License
 
